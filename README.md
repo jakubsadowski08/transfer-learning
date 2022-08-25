@@ -4,4 +4,8 @@ Użyto następującego zbioru danych [kamienii szlachetnych](https://www.kaggle.
 
 Wszystkie dostępne modele bazowe można znaleźć na [Keras Applications](https://keras.io/api/applications/).
 
-W celu przyspieszenia obliczeń używając GPU można zainstalować CUDA (https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html).
+W celu przyspieszenia obliczeń używając GPU można zainstalować CUDA 
+
+https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html.
+
+https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html
