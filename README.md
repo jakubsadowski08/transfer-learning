@@ -6,6 +6,6 @@ Wszystkie dostępne modele bazowe można znaleźć na [Keras Applications](https
 
 W celu przyspieszenia obliczeń używając GPU można zainstalować CUDA 
 
-https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html.
+(https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html)
 
 https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html
